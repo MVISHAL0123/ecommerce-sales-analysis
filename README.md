@@ -132,8 +132,8 @@ python data/build_excel.py
 
 **[Your Name]**  
 📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://github.com/MVISHAL0123)  
+💻 [GitHub](https://github.com/MVISHAL0123)
 
 ---
 
